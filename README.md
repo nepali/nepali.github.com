@@ -1,2 +1,0 @@
-nepali.github.com
-=================
